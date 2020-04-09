@@ -1,4 +1,4 @@
-baseurl = "https://www.iassistdata.org/"
+baseurl = "https://talatera.github.io/"
 title = "IASSIST - International Association for Social Science Information Service and Technology "
 theme = "hugo-universal-theme"
 #themesDir = "../.."
